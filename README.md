@@ -2,6 +2,7 @@
 
 The Datalist Binder Wrapper allows manipulation of returned data from the actual list binder.
 
+To setup and configure this plugin, please see the [documentation](https://kb.joget.org/jw/web/userview/jdocs/docs/marketplace/datalist-binder-wrapper).
 # Getting Help
 
 JogetOSS is a community-led team for open source software related to the [Joget](https://www.joget.org) no-code/low-code application platform.
